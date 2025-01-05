@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Plan</div>
+    <h1 className='underline text-3xl'>Plan</h1>
   )
 }
 
